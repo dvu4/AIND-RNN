@@ -1,0 +1,27 @@
+------------------
+input chars = 
+ne particularly, were abhorrent to his cold, precise but admirably balanced mind. he was, i take it,"
+
+predicted chars = 
+ and i was ly and and and and and and and and and and and and and and and and and and and and and an"
+
+------------------
+input chars = 
+erexcellent for drawing the veil from mens motives and actions. but for the trained reasoner to admi"
+
+predicted chars = 
+ng and in the promen the stoment and i has sed hat i sas ly the mas ing and in the promen the sithe "
+
+------------------
+input chars = 
+the man who first finds himself master of his own establishment, were sufficient to absorb all my at"
+
+predicted chars = 
+ rere the hould and in the pouthe the wis has the caster formes in whan the routhe sout i sto nod an"
+
+------------------
+input chars = 
+e singular tragedy of the atkinson brothers at trincomalee, and finally of the mission which he had "
+
+predicted chars = 
+e ar the that in the stomen the casered and in the promen the chathe se the stomen the casered and i"
