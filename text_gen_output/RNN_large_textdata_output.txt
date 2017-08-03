@@ -1,0 +1,31 @@
+-------------------
+
+input chars = 
+ne particularly, were abhorrent to his cold, precise but admirably balanced mind. he was, i take it,"
+
+predicted chars = 
+ and there was a small room, and there was a small of can be no day be a parsed and the should his h"
+
+-------------------
+
+input chars = 
+erexcellent for drawing the veil from mens motives and actions. but for the trained reasoner to admi"
+
+predicted chars = 
+ng the same of the barker of the port man who was a man was a small with the semp of the basknow, an"
+
+-------------------
+
+input chars = 
+the man who first finds himself master of his own establishment, were sufficient to absorb all my at"
+
+predicted chars = 
+ expecieded in the dear in the corner of the selpers was a small rooked and the sidence that there w"
+
+-------------------
+
+input chars = 
+e singular tragedy of the atkinson brothers at trincomalee, and finally of the mission which he had "
+
+predicted chars = 
+been seen a door there was a small of can be no that you his his former than the street will not the"
